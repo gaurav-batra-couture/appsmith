@@ -126,7 +126,9 @@ We love our contributors! We're committed to fostering an open and welcoming env
 
 A big thank you to the community for making Appsmith possible!
 
-<img src="https://contrib.rocks/image?repo=appsmithorg/appsmith" />
+<a href="https://github.com/appsmithorg/appsmith/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=appsmithorg/appsmith" />
+</a>
 
 ## License
 
