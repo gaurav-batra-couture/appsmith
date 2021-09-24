@@ -51,7 +51,7 @@ export function PageWrapper(props: PageWrapperProps) {
       <Helmet>
         <title>{`${
           props.displayName ? `${props.displayName} | ` : ""
-        }Appsmith`}</title>
+        }Serving APIs`}</title>
       </Helmet>
       <PageBody>{props.children}</PageBody>
     </Wrapper>

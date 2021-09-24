@@ -45,7 +45,7 @@ export const LOGIN_PAGE_INVALID_CREDS_ERROR = () =>
   `It looks like you may have entered incorrect/invalid credentials. Please try again or reset password using the button below.`;
 export const LOGIN_PAGE_INVALID_CREDS_FORGOT_PASSWORD_LINK = () =>
   `Reset Password`;
-export const NEW_TO_APPSMITH = () => `New to Appsmith?`;
+export const NEW_TO_APPSMITH = () => `New to Serving APIs?`;
 
 export const LOGIN_PAGE_LOGIN_BUTTON_TEXT = () => `sign in`;
 export const LOGIN_PAGE_FORGOT_PASSWORD_TEXT = () => `Forgot Password`;
@@ -203,7 +203,7 @@ export const GOOGLE_RECAPTCHA_DOMAIN_ERROR = () =>
   `Google Re-Captcha Token Generation failed! Please check the allowed domains.`;
 
 export const SERVER_API_TIMEOUT_ERROR = () =>
-  `Appsmith server is taking too long to respond. Please try again after some time`;
+  `Serving APIs server is taking too long to respond. Please try again after some time`;
 export const DEFAULT_ERROR_MESSAGE = () => `There was an unexpected error`;
 export const REMOVE_FILE_TOOL_TIP = () => "Remove Upload";
 export const ERROR_FILE_TOO_LARGE = (fileSize: string) =>
@@ -274,7 +274,7 @@ export const SAAS_AUTHORIZATION_FAILED =
   "Authorization failed. Please check your details or try again.";
 // Todo: improve this for appsmith_error error message
 export const SAAS_AUTHORIZATION_APPSMITH_ERROR = "Something went wrong.";
-export const SAAS_APPSMITH_TOKEN_NOT_FOUND = "Appsmith token not found";
+export const SAAS_APPSMITH_TOKEN_NOT_FOUND = "Serving APIs token not found";
 
 export const LOCAL_STORAGE_QUOTA_EXCEEDED_MESSAGE = () =>
   "Error saving a key in localStorage. You have exceeded the allowed storage size limit";
@@ -365,7 +365,7 @@ export const DEBUGGER_SEARCH_GOOGLE = () => "Ask Google";
 export const DEBUGGER_COPY_MESSAGE = () => "Copy";
 export const DEBUGGER_OPEN_DOCUMENTATION = () => "Open Documentation";
 export const DEBUGGER_SEARCH_SNIPPET = () => "Trigger Snippet";
-export const DEBUGGER_APPSMITH_SUPPORT = () => "Get Appsmith Support";
+export const DEBUGGER_APPSMITH_SUPPORT = () => "Get Serving APIs Support";
 
 //action creator menu
 export const NO_ACTION = () => `No Action`;

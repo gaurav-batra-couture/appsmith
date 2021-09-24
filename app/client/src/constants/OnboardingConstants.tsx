@@ -70,7 +70,7 @@ export const OnboardingConfig: Record<OnboardingStep, OnboardingStepConfig> = {
       return [showOnboardingLoader(true)];
     },
     helper: {
-      title: "👋 Welcome to Appsmith!",
+      title: "👋 Welcome to Serving APIs!",
       description:
         "We'd like to show you around! Let's build an app for remote teams to do async meeting updates.",
       skipLabel: "No thanks",
